@@ -8,23 +8,23 @@
 
 * recorded Meetings:
 
-1. Meeting with Data Analyst to 
-https://drive.google.com/open?id=1kS0Ps4ppcDDheRoie6LLwLxyEsrA_Dj8
+  1. Meeting with Data Analyst to 
+  https://drive.google.com/open?id=1kS0Ps4ppcDDheRoie6LLwLxyEsrA_Dj8
 
-2. Meeting with Micahel
-https://drive.google.com/open?id=1q7vBoARr-amYJ7v55UtdbqNjg_jTCaG2
+  2. Meeting with Micahel
+  https://drive.google.com/open?id=1q7vBoARr-amYJ7v55UtdbqNjg_jTCaG2
 
 * Documents:
-1. Implementation Details
-https://docs.google.com/document/d/1g-bJRrxC4Z1aJxJVHVbjpyIITM8nyONn-4e1t0dZrcg/edit?usp=sharing
+  1. Implementation Details
+  https://docs.google.com/document/d/1g-bJRrxC4Z1aJxJVHVbjpyIITM8nyONn-4e1t0dZrcg/edit?usp=sharing
 
 * Dataset & Documents provided by J&J:
-Boxes: 
-https://cmu.account.box.com/login?redirect_url=%2Ffolder%2F53313443645&logout=true
+  Boxes: 
+  https://cmu.account.box.com/login?redirect_url=%2Ffolder%2F53313443645&logout=true
 
 * Meetig Summaries:
-1. 9/26 Group Meeting: Brainstorming on Scopes:
-https://files.slack.com/files-pri/TCJK5PCMB-FD30FQXMM/image_from_ios.jpg
+  1. 9/26 Group Meeting: Brainstorming on Scopes:
+  https://files.slack.com/files-pri/TCJK5PCMB-FD30FQXMM/image_from_ios.jpg
 
 2. 9/27 Meeting Results with Michael:
 
