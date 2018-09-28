@@ -6,7 +6,7 @@
 
   https://drive.google.com/file/d/0BwkaUN1wXUZOQ1B0S3FZamhBVWpjOFR6Y3RNLTNudVoydzFr/view?usp=sharing
 
-* recorded Meetings:
+* Recorded Meetings:
 
   1. Meeting with Data Analyst
   https://drive.google.com/open?id=1kS0Ps4ppcDDheRoie6LLwLxyEsrA_Dj8
@@ -23,7 +23,7 @@
   https://cmu.account.box.com/login?redirect_url=%2Ffolder%2F53313443645&logout=true
 
 * Meetig Summaries:
-  1. 9/22 Group Meeting (Understand Data collected through One Touch):
+  1. 9/22 Group Meeting (Understand collected data through One Touch):
   https://files.slack.com/files-pri/TCJK5PCMB-FCYRR6YCU/image_from_ios.jpg
 
   2. 9/26 Group Meeting (Brainstorm on project scope) :
