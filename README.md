@@ -1,4 +1,4 @@
-# capstone
+# Capstone Project
 * Project Description:
   https://drive.google.com/file/d/0BwkaUN1wXUZONlFhT3NhT0JqSEVQUmV5bm1pWmZ1azZmU01n/view?usp=sharing
 
