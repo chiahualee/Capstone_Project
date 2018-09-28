@@ -8,7 +8,7 @@
 
 * recorded Meetings:
 
-  1. Meeting with Data Analyst to 
+  1. Meeting with Data Analyst
   https://drive.google.com/open?id=1kS0Ps4ppcDDheRoie6LLwLxyEsrA_Dj8
 
   2. Meeting with Micahel
