@@ -2,11 +2,10 @@
 * **Project Description**:
   https://drive.google.com/file/d/0BwkaUN1wXUZONlFhT3NhT0JqSEVQUmV5bm1pWmZ1azZmU01n/view?usp=sharing
 
-* Team Introduction:
-
+* **Team Introduction**:
   https://drive.google.com/file/d/0BwkaUN1wXUZOQ1B0S3FZamhBVWpjOFR6Y3RNLTNudVoydzFr/view?usp=sharing
 
-* Recorded Meetings:
+* **Recorded Meetings**:
 
   1. Meeting with Data Analyst
   https://drive.google.com/open?id=1kS0Ps4ppcDDheRoie6LLwLxyEsrA_Dj8
@@ -14,15 +13,15 @@
   2. Meeting with Micahel
   https://drive.google.com/open?id=1q7vBoARr-amYJ7v55UtdbqNjg_jTCaG2
 
-* Our Working Documents:
+* **Our Working Documents**:
   1. Implementation Details: 
   https://docs.google.com/document/d/1g-bJRrxC4Z1aJxJVHVbjpyIITM8nyONn-4e1t0dZrcg/edit?usp=sharing
 
-* Client Data Sets & Documents:
+* **Client Data Sets & Documents**:
   Boxes: 
   https://cmu.account.box.com/login?redirect_url=%2Ffolder%2F53313443645&logout=true
 
-* Meetig Summaries:
+* **Meetig Summaries**:
   1. 9/22 Group Meeting (Understand collected data through One Touch):
   https://files.slack.com/files-pri/TCJK5PCMB-FCYRR6YCU/image_from_ios.jpg
 
