@@ -1,4 +1,10 @@
 # capstone
+* Project Description:
+https://drive.google.com/file/d/0BwkaUN1wXUZONlFhT3NhT0JqSEVQUmV5bm1pWmZ1azZmU01n/view?usp=sharing
+
+* Team Introduction:
+
+https://drive.google.com/file/d/0BwkaUN1wXUZOQ1B0S3FZamhBVWpjOFR6Y3RNLTNudVoydzFr/view?usp=sharing
 
 * recorded Meetings:
 
