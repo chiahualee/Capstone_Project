@@ -12,6 +12,10 @@ https://drive.google.com/open?id=1q7vBoARr-amYJ7v55UtdbqNjg_jTCaG2
 1. Implementation Details
 https://docs.google.com/document/d/1g-bJRrxC4Z1aJxJVHVbjpyIITM8nyONn-4e1t0dZrcg/edit?usp=sharing
 
+* Dataset & Documents provided by J&J:
+Boxes: 
+https://cmu.account.box.com/login?redirect_url=%2Ffolder%2F53313443645&logout=true
+
 * Meetig Summaries:
 1. 9/26 Group Meeting: Brainstorming on Scopes:
 https://files.slack.com/files-pri/TCJK5PCMB-FD30FQXMM/image_from_ios.jpg
