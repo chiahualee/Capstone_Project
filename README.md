@@ -15,7 +15,7 @@
   https://drive.google.com/open?id=1q7vBoARr-amYJ7v55UtdbqNjg_jTCaG2
 
 * Documents:
-  1. Implementation Details
+  1. Implementation Details: 
   https://docs.google.com/document/d/1g-bJRrxC4Z1aJxJVHVbjpyIITM8nyONn-4e1t0dZrcg/edit?usp=sharing
 
 * Dataset & Documents provided by J&J:
@@ -23,10 +23,10 @@
   https://cmu.account.box.com/login?redirect_url=%2Ffolder%2F53313443645&logout=true
 
 * Meetig Summaries:
-  1. 9/22 Group Meeting: Understand Data collected through One Touch
+  1. 9/22 Group Meeting (Understand Data collected through One Touch):
   https://files.slack.com/files-pri/TCJK5PCMB-FCYRR6YCU/image_from_ios.jpg
 
-  2. 9/26 Group Meeting: Brainstorming on Scopes:
+  2. 9/26 Group Meeting (Brainstorm on project scope) :
   https://files.slack.com/files-pri/TCJK5PCMB-FD30FQXMM/image_from_ios.jpg
 
   3. 9/27 Meeting Results with Michael:
