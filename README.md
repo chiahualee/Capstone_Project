@@ -35,9 +35,6 @@ After the meeting today, me, Sheena and Wei have been thinking about the next st
 Also, based on what Michael said today, we need a closer look into our competitors’ apps or some apps from other fields and try to see if we can borrow some ideas and features that we find interesting. Maybe Sheena and Amit can look into that and give us some feed back on our next meeting.
 
 
-Work on Sunday:
-1. Preprocessing Data
-2. Competitor Analysis
 
 
 
