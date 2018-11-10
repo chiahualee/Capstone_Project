@@ -16,6 +16,8 @@
 * **Our Working Documents**:
   1. Implementation Details: 
   https://docs.google.com/document/d/1g-bJRrxC4Z1aJxJVHVbjpyIITM8nyONn-4e1t0dZrcg/edit?usp=sharing
+  2. Model Details:
+  https://docs.google.com/document/d/1nnEHsC4yY428jWNGNGOe5vVy84L_rpkZ5zuOBKHSxxo/edit#
 
 * **Client Data Sets & Documents**:
   Boxes: 
